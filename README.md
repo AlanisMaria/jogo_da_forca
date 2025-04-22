@@ -1,8 +1,11 @@
 ✭JOGO DA FORCA✭
 
 ✭Alanis Maria Mendes de Oliveira - N°02
+
 ✭Gabrielly Vitória Ferreira Pedroso - N°18
+
 ✭Elizama Trindade Golombioski - N°13
+
 ✭Caio Roberto Sandrini Sales - N°8
 
          ✪Sobre o projeto✪
