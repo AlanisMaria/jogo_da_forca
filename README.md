@@ -1,4 +1,4 @@
-✭JOGO DA FORCA✭
+                                          ❮JOGO DA FORCA❯
 
 ✭Alanis Maria Mendes de Oliveira - N°02
 
