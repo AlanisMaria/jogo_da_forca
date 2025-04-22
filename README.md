@@ -9,7 +9,7 @@
 ✭Caio Roberto Sandrini Sales - N°8
 
          ✪Sobre o projeto✪
-☆Jogo da forca, com 5 temas, que o usuário pode escolher, seguindo o sistema lhe dá quantas letras a palavra tem, conforme você chuta as letras ele diz se errou ou não, caso tenha acertado, a letra é colocada no seu espaço vazio correspondente.
+☆Jogo da forca, com 5 temas, que o usuário pode escolher, seguindo o sistema lhe dá quantas letras a palavra tem, conforme você chuta as letras ele diz se errou ou não, caso tenha acertado, a letra é colocada no seu espaço vazio correspondente.☆
 
          
 
