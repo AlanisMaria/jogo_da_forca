@@ -13,5 +13,10 @@
 
 ☆Para rodar basta clicar CTRL + J que o jogo roda☆
 
-         
+          ♦︎ YouTube ♦︎
+✦Como não consegui fazer a gravação de tela pelo computador, baixei o aplicativo Mimo para demonstrar.
+
+          ✹Link✹
+
+ ↪︎https://youtube.com/shorts/WvtPTdjLAx8?si=wUnBdHu0eD1zENGB        
 
