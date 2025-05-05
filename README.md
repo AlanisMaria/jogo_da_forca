@@ -19,4 +19,3 @@
           ✹𝕃𝕚𝕟𝕜✹
 
  ↪︎https://youtube.com/shorts/WvtPTdjLAx8?si=wUnBdHu0eD1zENGB        
- https://youtube.com/shorts/WvtPTdjLAx8?si=zpYtrsk6O4D7oVB0
